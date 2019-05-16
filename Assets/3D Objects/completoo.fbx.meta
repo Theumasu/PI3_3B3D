@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 9d935cb936cb8c94f94f2c04e8d6e374
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Armature.002
+    100004: Armature.003
+    100006: Armature.005
+    100008: Armature.007
+    100010: Bone
+    100012: Bone 1
+    100014: Bone 2
+    100016: Bone.001
+    100018: Bone.001 1
+    100020: Bone.001 2
+    100022: Bone.002
+    100024: Bone.002 1
+    100026: Bone.002 2
+    100028: Bone.003
+    100030: Bone.003 1
+    100032: Bone.003 2
+    100034: Bone.003_end
+    100036: Bone.003_end 1
+    100038: Bone.003_end 2
+    100040: Camera
+    100042: Circle.000
+    100044: Circle.005
+    100046: //RootNode
+    100048: Cube
+    100050: Cube.001
+    100052: Cube.002
+    100054: Cube.003
+    100056: Cube.004
+    100058: Cube.005
+    100060: Cube.006
+    100062: Cube.007
+    100064: Cube.008
+    100066: Cube.009
+    100068: Cube.010
+    100070: Cube.011
+    100072: Cube.012
+    100074: Cube.013
+    100076: Cube.017
+    100078: Cubo
+    100080: Cubo.001
+    100082: Cubo.002
+    100084: Cubo.003
+    100086: Cubo.004
+    100088: Cubo.005
+    100090: Cubo.006
+    100092: Cubo.007
+    100094: Cubo.008
+    100096: Cubo.009
+    100098: Cubo.010
+    100100: Cubo.011
+    100102: Cubo.012
+    100104: Cubo.013
+    100106: Cubo.014
+    100108: Plane
+    100110: Plano
+    100112: Sol
+    100114: Sphere.000
+    100116: Sphere.001
+    100118: Sphere.002
+    100120: Sphere.003
+    100122: Sphere.004
+    100124: Sphere.005
+    100126: Sphere.006
+    100128: Sphere.007
+    100130: Sun
+    100132: Sun.001
+    400000: Armature.001
+    400002: Armature.002
+    400004: Armature.003
+    400006: Armature.005
+    400008: Armature.007
+    400010: Bone
+    400012: Bone 1
+    400014: Bone 2
+    400016: Bone.001
+    400018: Bone.001 1
+    400020: Bone.001 2
+    400022: Bone.002
+    400024: Bone.002 1
+    400026: Bone.002 2
+    400028: Bone.003
+    400030: Bone.003 1
+    400032: Bone.003 2
+    400034: Bone.003_end
+    400036: Bone.003_end 1
+    400038: Bone.003_end 2
+    400040: Camera
+    400042: Circle.000
+    400044: Circle.005
+    400046: //RootNode
+    400048: Cube
+    400050: Cube.001
+    400052: Cube.002
+    400054: Cube.003
+    400056: Cube.004
+    400058: Cube.005
+    400060: Cube.006
+    400062: Cube.007
+    400064: Cube.008
+    400066: Cube.009
+    400068: Cube.010
+    400070: Cube.011
+    400072: Cube.012
+    400074: Cube.013
+    400076: Cube.017
+    400078: Cubo
+    400080: Cubo.001
+    400082: Cubo.002
+    400084: Cubo.003
+    400086: Cubo.004
+    400088: Cubo.005
+    400090: Cubo.006
+    400092: Cubo.007
+    400094: Cubo.008
+    400096: Cubo.009
+    400098: Cubo.010
+    400100: Cubo.011
+    400102: Cubo.012
+    400104: Cubo.013
+    400106: Cubo.014
+    400108: Plane
+    400110: Plano
+    400112: Sol
+    400114: Sphere.000
+    400116: Sphere.001
+    400118: Sphere.002
+    400120: Sphere.003
+    400122: Sphere.004
+    400124: Sphere.005
+    400126: Sphere.006
+    400128: Sphere.007
+    400130: Sun
+    400132: Sun.001
+    2000000: Camera
+    2100000: Material.005
+    2100002: Material.007
+    2100004: Material.029
+    2100006: Material.030
+    2100008: Materiais.005
+    2100010: Materiais.001
+    2100012: No Name
+    2100014: Material.010
+    2100016: Material.015
+    2100018: Materiais
+    2100020: Material.006
+    2100022: Material.001
+    2100024: Materiais.004
+    2100026: Material.031
+    2100028: Material
+    2100030: Materiais.002
+    2100032: Materiais.012
+    2100034: Materiais.010
+    2100036: Material.024
+    2100038: Material.023
+    2100040: Materiais.000
+    2100042: Material.022
+    2100044: Material.021
+    2100046: Materiais.003
+    2100048: Material.026
+    2100050: Material.025
+    2300000: Circle.000
+    2300002: Circle.005
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: Cube.005
+    2300016: Cube.006
+    2300018: Cube.007
+    2300020: Cube.008
+    2300022: Cube.009
+    2300024: Cube.010
+    2300026: Cube.011
+    2300028: Cube.012
+    2300030: Cube.013
+    2300032: Cube.017
+    2300034: Cubo
+    2300036: Cubo.001
+    2300038: Cubo.002
+    2300040: Cubo.003
+    2300042: Cubo.004
+    2300044: Cubo.005
+    2300046: Cubo.006
+    2300048: Cubo.007
+    2300050: Cubo.008
+    2300052: Cubo.009
+    2300054: Cubo.010
+    2300056: Cubo.013
+    2300058: Plane
+    2300060: Plano
+    2300062: Sphere.000
+    2300064: Sphere.001
+    2300066: Sphere.002
+    2300068: Sphere.003
+    2300070: Sphere.004
+    2300072: Sphere.005
+    2300074: Sphere.006
+    2300076: Sphere.007
+    3300000: Circle.000
+    3300002: Circle.005
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: Cube.005
+    3300016: Cube.006
+    3300018: Cube.007
+    3300020: Cube.008
+    3300022: Cube.009
+    3300024: Cube.010
+    3300026: Cube.011
+    3300028: Cube.012
+    3300030: Cube.013
+    3300032: Cube.017
+    3300034: Cubo
+    3300036: Cubo.001
+    3300038: Cubo.002
+    3300040: Cubo.003
+    3300042: Cubo.004
+    3300044: Cubo.005
+    3300046: Cubo.006
+    3300048: Cubo.007
+    3300050: Cubo.008
+    3300052: Cubo.009
+    3300054: Cubo.010
+    3300056: Cubo.013
+    3300058: Plane
+    3300060: Plano
+    3300062: Sphere.000
+    3300064: Sphere.001
+    3300066: Sphere.002
+    3300068: Sphere.003
+    3300070: Sphere.004
+    3300072: Sphere.005
+    3300074: Sphere.006
+    3300076: Sphere.007
+    4300000: Cube.013
+    4300002: Cube.012
+    4300004: Cube.011
+    4300006: Cube.017
+    4300008: Cube.007
+    4300010: Cube.003
+    4300012: Cube.001
+    4300014: Cubo.011
+    4300016: Cubo.014
+    4300018: Circle.000
+    4300020: Plane
+    4300022: Circle.005
+    4300024: Cube.002
+    4300026: Cubo.013
+    4300028: Plano
+    4300030: Cubo.010
+    4300032: Cubo.009
+    4300034: Cubo.008
+    4300036: Cubo.007
+    4300038: Cubo.006
+    4300040: Cubo.005
+    4300042: Cubo.004
+    4300044: Cubo.003
+    4300046: Cubo.002
+    4300048: Cubo.001
+    4300050: Cubo
+    4300052: Cube
+    4300054: Cube.004
+    4300056: Cube.005
+    4300058: Cube.006
+    4300060: Sphere.002
+    4300062: Sphere.003
+    4300064: Sphere.004
+    4300066: Sphere.005
+    4300068: Sphere.007
+    4300070: Sphere.006
+    4300072: Sphere.001
+    4300074: Sphere.000
+    4300076: Cubo.012
+    4300078: Cube.010
+    4300080: Cube.009
+    4300082: Cube.008
+    9500000: //RootNode
+    10800000: Sol
+    10800002: Sun
+    10800004: Sun.001
+    13700000: Cubo.011
+    13700002: Cubo.012
+    13700004: Cubo.014
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
