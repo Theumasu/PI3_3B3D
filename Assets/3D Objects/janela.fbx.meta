@@ -1,22 +1,14 @@
 fileFormatVersion: 2
-guid: 14d3c642d60847e42950ca6c2cfa3fa5
+guid: 1b33b2c87bb287a46b03ba69f85386da
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Camera
-    100002: Lamp
-    100004: lowman_shoes
-    100006: //RootNode
-    400000: Camera
-    400002: Lamp
-    400004: lowman_shoes
-    400006: //RootNode
-    2000000: Camera
-    2100000: No Name
-    2300000: lowman_shoes
-    3300000: lowman_shoes
-    4300000: lowman_shoes
-    10800000: Lamp
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Material.002
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane
   externalObjects: {}
   materials:
     importMaterials: 1
