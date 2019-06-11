@@ -964,7 +964,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97b93ef0091d65e4aa39a45a15ceac98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tempo: 5
 --- !u!1 &1221129882
 GameObject:
   m_ObjectHideFlags: 0
@@ -4133,10 +4132,16 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701143977}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1aa993f3406d1bc4aa9d467815d29474, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2a0efbfc6dee6e64b8ba8ec2bc05b085, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!143 &1701143983
 CharacterController:
   m_ObjectHideFlags: 0
@@ -4155,9 +4160,8 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
---- !u!95 &1701143984
-Animator:
-  serializedVersion: 3
+--- !u!114 &1701143984
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
